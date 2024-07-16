@@ -1,4 +1,4 @@
-# multi-run-buttons
+# debug-configs-panel
 
 This extension provides a panel in the Debug pane with a list of your run/debug configurations.
 Simply click on any of them to start or restart debugging.
